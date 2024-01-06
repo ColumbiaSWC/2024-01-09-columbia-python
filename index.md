@@ -468,12 +468,12 @@ to obtain the software and data you will need to follow the lesson.
 {% if site.curriculum == "swc-gapminder" %}
 <div id="data">
 <h3>Data Used in the Lessons</h3>
-See the following lesson setup instructions to download required data for the lessons:
+Make sure to download the required data for the Shell and Python lessons:
 
 <ul>
-<li><a href="https://swcarpentry.github.io/shell-novice/setup.html">The UNIX Shell: Setup</a></li>
+<li><a href="https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip">shell-lesson-data.zip</a></li>
 
-<li><a href="https://swcarpentry.github.io/python-novice-gapminder/setup.html">Plotting and Programming in Python: Setup</a></li>
+<li><a href="https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip">python-novice-gapminder-data.zip</a></li>
 </ul>
 {% endif %}
 
